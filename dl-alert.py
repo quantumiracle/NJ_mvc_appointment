@@ -65,7 +65,6 @@ def job():
         i=i+1
         
 while True :
-    job()
     try:
         job()
     except:
